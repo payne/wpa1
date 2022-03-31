@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webprojects-38489": {
+      "hosting": {
+        "wpa1": [
+          "wpa1-payne"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webprojects-38489"
+  }
+}
